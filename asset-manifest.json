@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RGZ-II/static/css/main.f3694a08.css",
-    "main.js": "/RGZ-II/static/js/main.65559737.js",
+    "main.js": "/RGZ-II/static/js/main.7f3611a8.js",
     "static/media/struct.png": "/RGZ-II/static/media/struct.9876c2eb19ff1763409f.png",
     "index.html": "/RGZ-II/index.html",
     "main.f3694a08.css.map": "/RGZ-II/static/css/main.f3694a08.css.map",
-    "main.65559737.js.map": "/RGZ-II/static/js/main.65559737.js.map"
+    "main.7f3611a8.js.map": "/RGZ-II/static/js/main.7f3611a8.js.map"
   },
   "entrypoints": [
     "static/css/main.f3694a08.css",
-    "static/js/main.65559737.js"
+    "static/js/main.7f3611a8.js"
   ]
 }
